@@ -1,11 +1,8 @@
-
----
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 # 💫 About Me: 
 [![](https://visitcount.itsvg.in/api?id=CreativeC0der&icon=0&color=12)](https://visitcount.itsvg.in) 
 
--🔭 I’m currently working on **NodeJS, React**
--🌱 I’m currently learning **SpringBoot**<br>
+🔭 I’m currently working on **NodeJS, React**<br>
+🌱 I’m currently learning **SpringBoot**<br>
 👨‍💻 All of my projects are available at [Github](https://github.com/CreativeC0der)<br>
 💬 Ask me about **Javascript,Java**<br>
 📫 How to reach me [Mail](shrijon610@gmail.com)<br>
