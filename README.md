@@ -1,11 +1,7 @@
-[![](https://visitcount.itsvg.in/api?id=CreativeC0der&icon=0&color=12)](https://visitcount.itsvg.in) 
+
 ---
 # 💫 About Me: 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shrijon%20Biswas-0A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shrijon-biswas) 
-[![GFG](https://img.shields.io/badge/GeeksForGeeks-shrijon610-2F8D46.svg?logo=GeeksForGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/shrijon610/) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-shrijon610-FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/shrijon610/) 
-
+[![](https://visitcount.itsvg.in/api?id=CreativeC0der&icon=0&color=12)](https://visitcount.itsvg.in) 
 #### 🔭 I’m currently working on NodeJS, React
 #### 🌱 I’m currently learning SpringBoot
 #### 👨‍💻 All of my projects are available at [Github](https://github.com/CreativeC0der)
@@ -15,6 +11,9 @@
 #### ⚡ Fun fact I started my journey with **Java Swing**!
 
 # 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shrijon%20Biswas-0A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shrijon-biswas) 
+[![GFG](https://img.shields.io/badge/GeeksForGeeks-shrijon610-2F8D46.svg?logo=GeeksForGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/shrijon610/) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-shrijon610-FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/shrijon610/) 
 
 
 # 💻 Tech Stack:
