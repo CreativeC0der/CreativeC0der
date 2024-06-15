@@ -1,12 +1,12 @@
 # 💫 About Me: 
 [![](https://visitcount.itsvg.in/api?id=CreativeC0der&icon=0&color=12)](https://visitcount.itsvg.in) 
 
-🔭 I’m currently working on **NodeJS, React**<br>
-🌱 I’m currently learning **SpringBoot**<br>
-👨‍💻 All of my projects are available at [Github](https://github.com/CreativeC0der)<br>
-💬 Ask me about **Javascript,Java**<br>
-📫 How to reach me [Mail](shrijon610@gmail.com)<br>
-📄 Know about my experiences on [my Resume](https://drive.google.com/file/d/1pRpbXlkGjSEQn04tKoaPETavaeJwJeFx/view?usp=sharing)<br>
+🔭 I’m currently working on **NodeJS, React**<br><br>
+🌱 I’m currently learning **SpringBoot**<br><br>
+👨‍💻 All of my projects are available at [Github](https://github.com/CreativeC0der)<br><br>
+💬 Ask me about **Javascript,Java**<br><br>
+📫 How to reach me [Mail](shrijon610@gmail.com)<br><br>
+📄 Know about my experiences on [my Resume](https://drive.google.com/file/d/1pRpbXlkGjSEQn04tKoaPETavaeJwJeFx/view?usp=sharing)<br><br>
 ⚡Fun fact I started my journey with **Java Swing**!
 
 # 🌐 Socials:
