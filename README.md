@@ -1,16 +1,18 @@
-[![](https://visitcount.itsvg.in/api?id=CreativeC0der&icon=0&color=12)](https://visitcount.itsvg.in)
+
 ---
-**#💫 About Me:**
-🔭 I’m currently working on **NodeJS, React**<br>
-🌱 I’m currently learning **SpringBoot**<br>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+# 💫 About Me: 
+[![](https://visitcount.itsvg.in/api?id=CreativeC0der&icon=0&color=12)](https://visitcount.itsvg.in) 
+
+-🔭 I’m currently working on **NodeJS, React**
+-🌱 I’m currently learning **SpringBoot**<br>
 👨‍💻 All of my projects are available at [Github](https://github.com/CreativeC0der)<br>
 💬 Ask me about **Javascript,Java**<br>
 📫 How to reach me [Mail](shrijon610@gmail.com)<br>
-📄 Know about my experiences on [my Resume](https://drive.google.com/file/d/1pRpbXlkGjSEQn04tKoaPETavaeJwJeFx/view?usp=sharing)<br>⚡
-Fun fact I started my journey with Java Swing!
+📄 Know about my experiences on [my Resume](https://drive.google.com/file/d/1pRpbXlkGjSEQn04tKoaPETavaeJwJeFx/view?usp=sharing)<br>
+⚡Fun fact I started my journey with **Java Swing**!
 
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shrijon-biswas) 
 
 # 💻 Tech Stack:
@@ -20,11 +22,5 @@ Fun fact I started my journey with Java Swing!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CreativeC0der&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CreativeC0der&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=CreativeC0der&limit=5&theme=default&combine_all_yearly_contributions=true)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
