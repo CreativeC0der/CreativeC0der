@@ -1,13 +1,12 @@
 
 # 💫 About Me: 
-[![](https://visitcount.itsvg.in/api?id=CreativeC0der&icon=0&color=12)](https://visitcount.itsvg.in) 
-### 🔭 I’m currently working on NodeJS, React
-### 🌱 I’m currently learning SpringBoot
-### 👨‍💻 All of my projects are available at [Github](https://github.com/CreativeC0der)
-### 💬 Ask me about Javascript, Java
-### 📫 Reach me on [Mail](shrijon610@gmail.com)
-### 📄 Know about my experiences in [My Resume](https://drive.google.com/file/d/1pRpbXlkGjSEQn04tKoaPETavaeJwJeFx/view?usp=sharing)
-### ⚡ Fun fact I started my journey with **Java Swing**!
+[![](https://visitcount.itsvg.in/api?id=CreativeC0der&icon=0&color=12)](https://visitcount.itsvg.in) <br>
+ 🔭 I’m currently working on NodeJS, React <br/><br/>
+ 🌱 I’m currently learning SpringBoot <br/><br/>
+ 👨‍💻 All of my projects are available at [Github](https://github.com/CreativeC0der) <br/><br/>
+ 💬 Ask me about Javascript, Java <br/><br/>
+ 📫 Reach me on my [Mail](shrijon610@gmail.com) <br/><br/>
+ 📄 Know about my experiences in [My Resume](https://drive.google.com/file/d/1pRpbXlkGjSEQn04tKoaPETavaeJwJeFx/view?usp=sharing) <br/><br/>
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shrijon%20Biswas-0A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shrijon-biswas) 
